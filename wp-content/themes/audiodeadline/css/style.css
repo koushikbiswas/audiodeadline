@@ -269,14 +269,9 @@ Use it to make something cool, have fun, and share what you've learned with othe
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus{background:none;  }
 
-
 .topmenu .navbar-default .navbar-nav > li > a{ color:#ffffff;}
 
-
-
 .topmenu  ul li a{ padding:20px 55px;  font-size:18px; color:#ffffff; text-transform: uppercase;  font-family:'OpenSansSemibold';   line-height:inherit; display:block!important; }
-
-
 
 .topmenu  ul li a:hover{background: rgba(45,64,81,1) !important;
     background: -moz-linear-gradient(top, rgba(45,64,81,1) 0%, rgba(25,36,43,1) 100%) !important;
@@ -298,10 +293,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2d4051', endColorstr='#19242b', GradientType=0 ) !important; color: #a8c4db!important;}
 
 
-
 .responsivemenu{ display:none; }
-
-
 
 
 .topmenu  .navbar-default .navbar-nav > .open > a, .topmenu  .navbar-default .navbar-nav > .open > a:hover, .topmenu .navbar-default .navbar-nav > .open > a:focus{background: #72b626 none repeat scroll 0 0 !important;
