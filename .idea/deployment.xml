@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="audiodeadline">
+  <component name="PublishConfigData" autoUpload="Always" serverName="audiodeadline" uploadOnCheckin="f88d85b4-e669-4f90-bd2b-35098a83f1b2">
     <serverData>
       <paths name="audiodeadline">
         <serverdata>
@@ -10,6 +10,7 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="audiodeadline" />
     <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
