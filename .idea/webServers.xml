@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f88d85b4-e669-4f90-bd2b-35098a83f1b2" name="audiodeadline" url="http://audiodeadline.com">
+        <fileTransfer host="audiodeadline.com" port="22" rootFolder="/home/audiodeadline/public_html" accessType="SFTP" password="dffadfeadfd9dfd9df9adf93df92df9d" username="audiodeadline">
+          <advancedOptions>
+            <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
